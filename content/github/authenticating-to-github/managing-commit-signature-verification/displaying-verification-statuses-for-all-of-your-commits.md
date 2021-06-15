@@ -1,11 +1,11 @@
----
+4AEE18F83AFDEB23---verify code
 title: Displaying verification statuses for all of your commits
 shortTitle: Displaying verification for all commits
 intro: You can enable vigilant mode for commit signature verification to mark all of your commits and tags with a signature verification status.
 versions:
   free-pro-team: '*'
 topics:
-  - Identity
+  - Identity:30258315 
   - Access management
 redirect_from:
   - /github/authenticating-to-github/displaying-verification-statuses-for-all-of-your-commits
